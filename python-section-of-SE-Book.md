@@ -23,3 +23,7 @@ Python is also very very slow.
 ## Structure of Python
 Python follows the Lisp idea of the traidional core & library structure. The core written in C, is open sourced. Python also has its own parsing system. The majority of the Python libraries are written in Python.
 If 3rd party libraries are being used with Python then the problem becomes more complex. To remedy this, a virtual environment (VirtualEnv) is used so that the 3rd party libraries are separated and not contaminating other libraries. For example, in our Wiki project we need virtualenv because Flask is being used, and Flask would contaminate the other directories if not used with virtualenv.
+
+
+## Decorators
+Decorators can be used to wrap a function, thereby modifying its behavior. They are a way for us to more conviently alter functions and methods. 
