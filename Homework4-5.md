@@ -1,5 +1,6 @@
 # Reading Revenge of the nerds chapter 
 Time: 1 hour 9 minutes 41 seconds
+
 I just thought it was interesting how Graham starts off by saying that there is a problem in the software business where the "pointy-haried" boss is someone that encapsulates the qualities of knowing nothing about the technology that they are working with and having strong opinions about technology. The reason I thought this was interesting is that I myself am questioning if this is actually a huge problem in the software business or if Graham is just blowing hot air from bad experiences that he has had personally. Anyways, it was an eye opening opening remark in the first place. I wonder if I will encounter one of these pointy-haired bosses. When I think about current popular and thriving companies I can't really catergorize them the same way that Graham points out the bosses to be. They all seem to be well versed and passionate about the technology that they are producing and working with. 
 
 One of the points in this chapter was that each programming languages has their own uses and some have more power over the others, but these strengths and weaknesses are usually unknown to people outside the coding community. Here, Graham again makes a point to say this is why the corperate managers/bosses have the weakness of not knowing what they are talking about. With the claim that bosses don't know much about all the programming languages, they would say the language to write programs with would be Java. Graham says the reason why the bosses say Java, is because it has become a corporate "standard" since everyone else is doing it, and it's a safe bet to use the same language as everyone else. This is because they believe that all languages are equal and so why not just use what everyone is using. There are just too many different variables to think about if one were to compare and contrast each major programming language when deciding on which one to use for the company. 
@@ -8,6 +9,7 @@ Graham says that the newest (and coolest) programming languages such as Java, Py
 One tiny little note that I liked to see was the reference to the Mythical Man Month book, where Graham says that if you were to add more people to program in a lower effective programming language then there would be a net loss. This is because different programming languages have varying amounts of code which equates to varying amounts of time, and we all know that time equals money. 
 
 # Read another chapter from Hackers and Painters - Chapter 12 Beating the Averages
+45 minutes 30 seconds
 
 In this chapter Graham harps from his podium about his experiences, uses, and greatness of the programming language Lisp. I now know after reading this chapter why the chapter after this had a lot of emphasis on explaining how great Lisp was. I feel there is a lot of bias in this chapter because Lisp seems to be a language that Graham utilized a lot and is very familiar with, so maybe that's why he feels that everyone should learn it or use it in the business world. He proposes three levels for hackers, the first level starting with Python or Java since they are easy to pick up, then C, and then finally the serious hacker would learn Lisp. Graham chose Lisp in his startup because he would be able to get features done faster than competitors. The High-Level learning requirement of Lisp would also mean that the development team would be small as well. Lower the cost, lower the risk, and lower the complexity.
 
@@ -42,39 +44,51 @@ Make point of how integrated programming is to our daily lives now. It's in ever
 ## Time: 1 hr 15 minutes 23 seconds + 2 hours
 
 Executive Summary
+
 Agile is a new age process of building software that has evolved from the limitations of traditional development using the waterfall method. Development is done in sprints with the sprints being 1 to 3 weeks in length. In these sprints, each developer chooses the work that they will do through the sprint, with the work being chosen from the backlog. If the work is finished they get more from the backlog. The developer team also utilizes the rugby idea of a scrum. In the sport people are in a tightly knit group, the developers immitate this by being a closely knit group by meeting and collaborating with each other daily in meetings called Stand-Ups. In the Stand-Ups one by one the developers let each other know the work that they did the other day, what work they are doing now, what work they are hoping to accomplish during the sprint, any successes, any problems that occurred, and so on and so forth. What the end goal is for the Agile process, is to have a product that can change on a dime, meaning flexibility. This will keep your product relevent with the times and make our team highly sought after
 
 Conclusion
+
 The Agile Process is great for companies if they want to create a product that will be flexible and almost guarantee customer satisfaction. With the amount of collaboration and communication with the investors, both parties can be at ease when creating a product. Constant checking in with the team with stand-ups and meetings after sprints guarantee keeping up with the workload and making sure that everybody is on the same page. This removes any confusion or people being lost in production and ensures that everyone is as productive as they say they are. 
 
 References
+
 https://www.provenmethod.com/agile-scrum-whats-difference/
+
 https://www.entry.com/agile-scrum-execute-projects/
+
 https://www.quora.com/In-a-nutshell-why-do-a-lot-of-developers-dislike-Agile-What-are-better-project-management-paradigm-alternatives
 
 Q&A
 
 Q1. What is the difference between agile and scrum process?
+
 Briefly, agile is the overarching process in software development and scrum is a more specific methodology of agile. Under agile are things such as Rational Unified Process, Extreme Programming, and the Scrum practice. Basically, agile itself is iterative and incremental development. These iterations in agile are short and the requirements for the product are developed, changed, and evolved all throughout production. This process leads to allowing the product to be more flexible to changes and requirements of the business world and the customers.
 Now scrum can be bundled up into the attributes of simplicity, flexibility, and close communication and collaboration. In Scrum development there are 3 roles: the Product Owner, the Scrum Master, and the Development Team.  Developments in Scrum are done in what are called sprints and last from 1 to 3 weeks. When the specify how long they are going to work, the development team also specifies the work that they will commit to working; the development team is expected to deliver this commitment. 
 Two key components emphasized in Scrum is communication and collaboration. 
 
 Q2. Why is the agile process popular? Also, why do some people hate it so much?
+
 I think that one of the reasons why the agile process is so popular is because the people investing and buying the product are able to communicate so much with the team leader and development team. In tradition developments, the investors would talk to the team and make their specifications known in the beginning and then wait a long time before they go and see the results. Because of this long wait between the meetings the team only has one chance to get things right upon delivery. What if the company were to meet the software company upon delivery just to see that the product that they made didn't meet their standards, or if there was a misunderstanding in the specifications. Another situation that could occur is that all the development time goes by, and by the time the product is ready to be sent out it is already outdated with the current times and demands. 
 The reason why I think that people hate agile so much is because there is already a standard established and used worldwide and that is the waterfall process. Another reason is that I believe that people strive to have things set in stone before moving on in a project. These people are also heavy set on having lots of documentation for design specifications and details of executions. One last reason why people would hate agile is because of the short periods of time for deliverables. People may feel too much stress and pressure to deliver on time so the quality of their work suffers. They may also not like having to report every single day.
 
 Q3. How is the Agile Process exectued? What do we expect as the results of the execution?
+
 The Agile Process first starts with the backlog and after there is the backlog then the development team starts planning the sprint. Sprints are typically 1-3 weeks where the dev team accomplishes the things that they set out to do over that time. The dev team takes the large project and essentially creates a lot of little mini-projects. There are daily stand-up meetings called scrums which help keep everyone on the same page and lets people know exactly where everyone stands in their individual tasks. In the Stand-ups everyone talks one at a time and the report 
 
 Q4. What do you think are the pros and cons of the agile process?
+
 As I have mentioned in some of the previous answers, I think the biggest pro of agile is the fact of communication. This emphasis of checking in with the shareholders after every little sprint really helps with the flexibility of the product. And I think that this is a great way for a software company to deal with complexity. By having to report all the time, both sides are able to see what is going wrong and what is going well and adjust accordingly instead of waiting a long time to present a lot of problems and wasting time on trying to fix them. With all this communication, it also puts everyone on the same page so that everyone knows what is going on with the project at the same time as everyone else. Everyone, in a sense, would be an expert on the matter of the project and there wouldn't be a figurative divide or hieracrchy in the workplace. 
 For cons I would say that there might be some sort of added pressure on developers as they want to prove their worth since they are choosing the amount of work they are to be getting done per sprint. I don't really think this would be too much of a problem as not everyone is the same and there isn't any part of the project that is more important the the other parts because they all work together. The most important thing is to get all the kinks out in a timely manner. Another con might be the uncertainty of how things might end up in the long run. Without knowing a definite end goal it may be hard to get the ball rolling. As well, with the lack or even dissapation of documentation, managing organization may be a little hard.
 
 Q5. My team has 10 team members and mainly do software reliability testing, do you think my team should adopt the agile process?
+
 I would say no. This is because the agile process really shines when implementing features. The testing would be too complex and wouldn't require meeting every single day for stand-ups.
 
 Q6. We formed a new team of 5 members to explore a new product, do you recommend my team to adopt the agile process? 
+
 I would say yes. Since it is a new product having the scrum mentality will help a lot since they can report to each other the problems that they are having. They will be able to learn and move forward in a unit. By having daily stand-ups everyone will be on the same page.
 
 Q7. Would I recommend using agile where I currently work now?
+
 I would say no. We currently use the waterfall method and utilize batch a lot, but that's because we have products that have to be tested over all the states in the United States. This requires a lot of testing and QA so the process is rather slow and can't be sped up. We have two iterations of planning and testing cycling off. 
