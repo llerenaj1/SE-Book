@@ -41,7 +41,7 @@ Make point of how integrated programming is to our daily lives now. It's in ever
 
 # Agile Process
 
-## Time: 1 hr 15 minutes 23 seconds + 2 hours
+## Time: 3 hrs 25 minutes 23 seconds 
 
 Executive Summary
 
@@ -92,3 +92,7 @@ I would say yes. Since it is a new product having the scrum mentality will help 
 Q7. Would I recommend using agile where I currently work now?
 
 I would say no. We currently use the waterfall method and utilize batch a lot, but that's because we have products that have to be tested over all the states in the United States. This requires a lot of testing and QA so the process is rather slow and can't be sped up. We have two iterations of planning and testing cycling off. 
+
+Q8. Should the hypothetical company adopt the agile process?
+
+I will say that the company should because it wants to explore the mobile markets of iOS and Android. Since there are so many different ways to implement things in mobile application and since it is a user interface, I think it would be very helpful to use agile especially with the communication and collaboration aspect with shareholders. The constant communication will ensure a nice looking product with specifications that may change throughout the development process. The mobile game is constantly changing with innovations happening all the time, so utilizing agile and having a product that will be very flexible and keen on making the users happy will be very beneficial to this company. 
