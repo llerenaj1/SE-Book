@@ -27,3 +27,6 @@ If 3rd party libraries are being used with Python then the problem becomes more 
 
 ## Decorators
 Decorators can be used to wrap a function, thereby modifying its behavior. They are a way for us to more conviently alter functions and methods. 
+
+## My Experiences with Python
+In our Software Engineering class this semester we were tasked with creating a wiki system that combined the powers of WTF-flask, Jinja2 and Python. We quickly learned how complex things were able to become. I think part of the reason is because we were pretty much reverse engineering the whole thing.. 
